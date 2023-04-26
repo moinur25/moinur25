@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moinur Rahman
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data analysis with r programming language
+- 🌱 I’m currently learning data analysis with r & python programming language
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me my email: moinurrahman25@gmail.com
 
